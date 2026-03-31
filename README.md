@@ -1,4 +1,4 @@
-# Digital-Literacy-Project-
+# Digital-Literacy-Project
 # 🛡️ Student Digital Ambassador Portfolio: Digital Literacy Project
 
 ### 🎓 VIT Bhopal University | CSE1021
